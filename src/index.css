@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+    font-family: 'Nunito', sans-serif;
+    background-image: url('https://images.pexels.com/photos/268976/pexels-photo-268976.jpeg');
+    background-size: cover;
+}
